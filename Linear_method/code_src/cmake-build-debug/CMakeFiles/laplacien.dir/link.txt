@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-9/root/usr/bin/cc -g   CMakeFiles/laplacien.dir/laplacien.c.o  -o laplacien -Wl,-rpath,/home/ensimag/youssef/TI/ti/traitement-d-image/code_src/cmake-build-debug liblibr.so -lm 

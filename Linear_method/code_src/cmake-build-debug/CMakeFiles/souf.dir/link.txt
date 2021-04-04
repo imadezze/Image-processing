@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-9/root/usr/bin/cc -fPIC -g  -shared -Wl,-soname,libsouf.so -o libsouf.so CMakeFiles/souf.dir/fft.c.o CMakeFiles/souf.dir/pgm.c.o CMakeFiles/souf.dir/divers.c.o 

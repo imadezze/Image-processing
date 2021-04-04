@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-9/root/usr/bin/cc -g   CMakeFiles/test_gaussien_spatial.dir/test_gaussien_spatial.c.o  -o test_gaussien_spatial -Wl,-rpath,/home/ensimag/youssef/TI/ti/traitement-d-image/code_src/cmake-build-debug liblibr.so -lm 

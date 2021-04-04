@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ensimag/youssef/TI/ti/traitement-d-image/code_src/divers.c
+pgm.h
+/home/ensimag/youssef/TI/ti/traitement-d-image/code_src/pgm.h
+math.h
+-
+
+/home/ensimag/youssef/TI/ti/traitement-d-image/code_src/gaussienspatial.c
+pgm.h
+/home/ensimag/youssef/TI/ti/traitement-d-image/code_src/pgm.h
+math.h
+-
+divers.c
+/home/ensimag/youssef/TI/ti/traitement-d-image/code_src/divers.c
+
+/home/ensimag/youssef/TI/ti/traitement-d-image/code_src/pgm.h
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+errno.h
+-
+fcntl.h
+-
+string.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+

@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-9/root/usr/bin/cc -fPIC -g  -shared -Wl,-soname,liblibr.so -o liblibr.so CMakeFiles/libr.dir/fft.c.o CMakeFiles/libr.dir/pgm.c.o CMakeFiles/libr.dir/divers.c.o 

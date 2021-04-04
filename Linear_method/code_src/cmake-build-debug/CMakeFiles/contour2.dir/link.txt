@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-9/root/usr/bin/cc -g   CMakeFiles/contour2.dir/contour2.c.o  -o contour2 -Wl,-rpath,/home/ensimag/youssef/TI/ti/traitement-d-image/code_src/cmake-build-debug liblibr.so -lm 
